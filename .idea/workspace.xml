@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a264d0e1-9057-4a64-96cf-98781a72953d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1blLrSWfAdAfkbo0MxiOE6naVDw" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="NumberTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberTest" />
+      <module name="numberprofile" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NumberTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a264d0e1-9057-4a64-96cf-98781a72953d" name="Default Changelist" comment="" />
+      <created>1589201931612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589201931612</updated>
+      <workItem from="1589201937206" duration="1338000" />
+      <workItem from="1589215379833" duration="1046000" />
+      <workItem from="1589218655293" duration="1163000" />
+      <workItem from="1589225802076" duration="1764000" />
+      <workItem from="1589227654799" duration="542000" />
+      <workItem from="1589235044271" duration="638000" />
+      <workItem from="1590491612629" duration="43000" />
+      <workItem from="1590493237699" duration="865000" />
+      <workItem from="1590500066442" duration="654000" />
+      <workItem from="1590501887422" duration="422000" />
+      <workItem from="1590523341895" duration="604000" />
+      <workItem from="1590525407879" duration="594000" />
+      <workItem from="1590600962764" duration="664000" />
+      <workItem from="1590858478278" duration="613000" />
+      <workItem from="1590926744448" duration="596000" />
+      <workItem from="1590943429230" duration="627000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
